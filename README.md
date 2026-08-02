@@ -1,5 +1,6 @@
 # An AI powered platform that detects fraudulent financial transactions and help prevent digital scams and promote financial security.
-ASSIGNMENT 01 : PROJECT UNDERSTANDING AND PLANNING 
+ASSIGNMENT 01 : PROJECT UNDERSTANDING AND PLANNING
+ 
 1. Company Problem: Financial fraud, phishing, and digital payment scams are increasing rapidly, causing financial losses, reduced customer trust, and delayed fraud detection.
 
 2. Project Description: The project aims to develop Mudra-Mend, an AI-powered financial fraud detection and transaction risk auditing system. It monitors transactions, analyzes user behavior, detects suspicious activities, and provides real-time fraud alerts.
@@ -31,14 +32,14 @@ Reports and data visualization
 
 7. Scope of Project:
 
-In Scope :
+-In Scope :
 Fraud detection,
 Transaction monitoring,
 Risk analysis,
 Dashboard & reports,
 Customer and merchant management
 
-Out of Scope:
+-Out of Scope:
 Payment processing,
 Core banking operations,
 Loan processing,
